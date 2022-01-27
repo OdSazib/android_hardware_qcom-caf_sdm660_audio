@@ -101,7 +101,6 @@ PRODUCT_COPY_FILES += \
     hardware/qcom-caf/sdm660/audio/configs/sdm660/mixer_paths_tashalite.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_tashalite.xml \
     hardware/qcom-caf/sdm660/audio/configs/sdm660/mixer_paths_tavil.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_tavil.xml \
     hardware/qcom-caf/sdm660/audio/configs/sdm660/mixer_paths_tasha_skus.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_tasha_skus.xml \
-    hardware/qcom-caf/sdm660/audio/configs/sdm660/mixer_paths.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths.xml \
     hardware/qcom-caf/sdm660/audio/configs/sdm660/audio_tuning_mixer.txt:$(TARGET_COPY_OUT_VENDOR)/etc/audio_tuning_mixer.txt \
     hardware/qcom-caf/sdm660/audio/configs/sdm660/audio_tuning_mixer_tavil.txt:$(TARGET_COPY_OUT_VENDOR)/etc/audio_tuning_mixer_tavil.txt \
     hardware/qcom-caf/sdm660/audio/configs/sdm660/audio_tuning_mixer_tasha.txt:$(TARGET_COPY_OUT_VENDOR)/etc/audio_tuning_mixer_tasha.txt \
@@ -109,7 +108,6 @@ PRODUCT_COPY_FILES += \
     hardware/qcom-caf/sdm660/audio/configs/sdm660/audio_platform_info_tashalite.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_platform_info_tashalite.xml \
     hardware/qcom-caf/sdm660/audio/configs/sdm660/audio_platform_info_tavil.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_platform_info_tavil.xml \
     hardware/qcom-caf/sdm660/audio/configs/sdm660/audio_platform_info_tasha_skus.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_platform_info_tasha_skus.xml \
-    hardware/qcom-caf/sdm660/audio/configs/sdm660/audio_platform_info_intcodec.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_platform_info_intcodec.xml \
     hardware/qcom-caf/sdm660/audio/configs/sdm660/audio_platform_info_skush.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_platform_info_skush.xml \
     hardware/qcom-caf/sdm660/audio/configs/sdm660/sound_trigger_mixer_paths.xml:$(TARGET_COPY_OUT_VENDOR)/etc/sound_trigger_mixer_paths.xml \
     hardware/qcom-caf/sdm660/audio/configs/sdm660/sound_trigger_mixer_paths_wcd9330.xml:$(TARGET_COPY_OUT_VENDOR)/etc/sound_trigger_mixer_paths_wcd9330.xml \
